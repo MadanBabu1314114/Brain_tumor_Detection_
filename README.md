@@ -8,7 +8,7 @@
 ## Overview
 
 This project focuses on the detection of brain tumors using Deep Learning. The repository contains a model trained to classify brain images as either tumor or non-tumor. The accuracy of the model is reported to be 85%, and the F1 score is 0.86.
-![image](https://github.com/MadanBabu1314114/Brain_tumor_Detection_/assets/123216438/43bf66fa-4861-44f3-b853-341f2b1d800a)
+ 
 
 
 
@@ -18,6 +18,7 @@ This project focuses on the detection of brain tumors using Deep Learning. The r
 The dataset is  included in this repository.
 
 ## Results
+![image](https://github.com/MadanBabu1314114/Brain_tumor_Detection_/assets/123216438/43bf66fa-4861-44f3-b853-341f2b1d800a)
 
 - **Accuracy:** 85%
 - **F1 Score:** 0.86
