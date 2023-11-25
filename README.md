@@ -12,13 +12,6 @@ This project focuses on the detection of brain tumors using Deep Learning. The r
 
 
 
-## Project Structure
-
-- **`src/`**: Contains the source code for the brain tumor detection model.
-- **`data/`**: Placeholder for the dataset; it should be downloaded separately.
-- **`models/`**: Save your trained models here.
-- **`notebooks/`**: Jupyter notebooks for experimentation and analysis.
-
 ## Dataset
 ![image](https://github.com/MadanBabu1314114/Brain_tumor_Detection_/assets/123216438/1e46a167-0cea-475e-8f1e-50fb60bbc6f7)
 
